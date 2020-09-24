@@ -1,7 +1,7 @@
 linguagem : python
-pythonn :
+python :
 - "3.4"
-scriptt
+script  :
 - cd src; python teste.py
 
 
